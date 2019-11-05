@@ -3,5 +3,5 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-#Who are we?
-#What do we do?
+# Who are we?
+# What do we do?
