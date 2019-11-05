@@ -1,7 +1,10 @@
 ---
 ---
 
-<link rel="stylesheet" href="styles.css" type="text/css">
+## <font color="#09347A">**H**</font>uman <font color="#09347A">**E**</font>nvironment <font color="#09347A">**S**</font>ystems <font color="#F1632A">@ </font> <font color="#09347A">**B**</font>oise <font color="#09347A">**S**</font>tate {-}
+
+<br>
 
 # Who are we?
 # What do we do?
+# What is this page for?

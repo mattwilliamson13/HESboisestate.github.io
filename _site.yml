@@ -4,9 +4,9 @@ navbar:
   title: "HES@BSU"
   left:
     - text: "About Us"
-      href: research.html
+      href: about.html
     - text: "Projects"
-      href: talks.html
+      href: projects.html
     - text: "Demos"
       href: software.html
   right:
@@ -18,5 +18,5 @@ navbar:
       href: https://twitter.com/HumEnviroSystem
 output:
   html_document:
-    theme: paper
+    theme: flatly
     css: 'styles.css'
