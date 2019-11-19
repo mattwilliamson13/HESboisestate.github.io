@@ -19,4 +19,12 @@ navbar:
 output:
   html_document:
     theme: flatly
-    css: 'styles.css'
+    code_folding: show
+    toc: yes
+    toc_float:
+      collapsed: yes
+    include:
+      in_header: header.html
+    css: style.css
+    lib_dir: site_libs
+    self_contained: no
